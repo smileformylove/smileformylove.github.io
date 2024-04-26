@@ -18,6 +18,14 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## Awards
 
+CVPRW2022:1st Place in the Image Compression Track
+
+The  First Class SCSK Scholarship (2021)
+
+The National Scholarship (2020)
+
+The Champion of 'Call for Code (IBM)' (2019)
+
 ## Patents
 
 基于变分自编码器进行图像压缩和解压方法和装置, CN113497938A
