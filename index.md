@@ -16,15 +16,18 @@ I believe **compression is to represent the world**. My current research focuses
 
 - **April 2024：**My work ["compresssible and searchible"](https://arxiv.org/abs/2404.10234) is public!
 
+- **Feburary 2024：**Our work ["Task-Aware Encoder Control for Deep Video Compression"](https://arxiv.org/abs/2404.04848) is accepted by CVPR2024!
+
+
 ## Awards
 
-CVPRW2022:1st Place in the Image Compression Track
+**CVPRW2022**: 1st Place in the Image Compression Track
 
 The  First Class SCSK Scholarship (2021)
 
 The National Scholarship (2020)
 
-The Champion of 'Call for Code (IBM)' (2019)
+The **Champion** of 'Call for Code (IBM)' (2019)
 
 ## Patents
 
