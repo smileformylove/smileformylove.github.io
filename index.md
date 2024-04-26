@@ -2,7 +2,9 @@
 layout: page
 ---
 
-# **Jixiang Luo (骆继祥)**
+# About me
+
+**Jixiang Luo (骆继祥)**
 
 Now I work at Xiaohongshu MediaLab for AICodec(end-to-end image and video compression), image or video processing after two years experience at Sensetime Research. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). 
 
