@@ -2,8 +2,6 @@
 layout: page
 ---
 
-# About me
-
 Now I work at Xiaohongshu MediaLab for AICodec(end-to-end image and video compression), image or video processing after two years experience at Sensetime Research. I received bachelors and a masters degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publication [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de).
 
 I believe **compression is to represent the world**. My current research focuses on the representation of multi-modal signals, inclding image, video, text and audio. While my major job now is for image or video processing and accelerate the progress of the deployment for AICodec.
