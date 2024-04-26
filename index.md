@@ -19,7 +19,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 * **CVPRW2022**: 1st Place in the Image Compression Track
 
-* The  First Class SCSK Scholarship (2021)
+* The *First Class* SCSK Scholarship (2021)
 
 * The National Scholarship (2020)
 
