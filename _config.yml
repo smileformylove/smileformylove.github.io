@@ -35,9 +35,9 @@
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: About Me
-    url: /
+# links:
+#   - title: About Me
+#     url: /
   # - title: Teams
   #   url: /teams/
   # - title: Publications
