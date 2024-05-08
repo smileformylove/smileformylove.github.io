@@ -29,7 +29,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 * Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin, "Task-Aware Encoder Control for Deep Video Compression", CVPR'2024, https://arxiv.org/abs/2404.04848
 
-* More work are [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de)!
+* More Publications are [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de)!
 
 ---
 ---
@@ -40,12 +40,4 @@ I believe **compression is to represent the world**. My current research focuses
 
 * The **Champion** of 'Call for Code (IBM)' (2019)
 
-## Patents
 
-* 基于变分自编码器进行图像压缩和解压方法和装置, CN113497938A
-
-* 视频压缩方法，装置以及计算机可读存储介质,CN114845113A
-
-* 一种JPEG图像无损压缩和解压缩方法，系统和装置, CN113810693A
-
-* 图像编码方法、装置、设备、存储介质及程序产品, CN117499655A
