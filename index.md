@@ -10,18 +10,27 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
+- **April 2024：Report of [Sora with Generative AI](Sora with Generative AI) at Shanghai!
+
 - **April 2024：**My work ["compressible and searchible"](https://arxiv.org/abs/2404.10234) is public!
+
+- **March 2024：**Our work ["Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization"]([https://arxiv.org/abs/2404.04848](https://arxiv.org/abs/2403.13030)) is public!
 
 - **Feburary 2024：**Our work ["Task-Aware Encoder Control for Deep Video Compression"](https://arxiv.org/abs/2404.04848) is accepted by CVPR2024!
 
+## Publications
+
+* Jixiang Luo, "Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression", Arxiv'2024 https://arxiv.org/abs/2404.10234
+
+* Jixiang Luo, Yan Wang, Hongwei Qin, "Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization", Arxiv'2024, https://arxiv.org/abs/2403.13030
+
+* Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin, "Task-Aware Encoder Control for Deep Video Compression", CVPR'2024, https://arxiv.org/abs/2404.04848
+
+* More work are [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de)!
 
 ## Awards
 
 * **CVPRW2022**: *1st Place* in the Image Compression Track
-
-* The *First Class* SCSK Scholarship (2021)
-
-* The National Scholarship (2020)
 
 * The **Champion** of 'Call for Code (IBM)' (2019)
 
