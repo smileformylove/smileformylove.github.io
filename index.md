@@ -10,7 +10,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
-- **April 2024：Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
+- **April 2024**：Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
 
 - **April 2024：**My work ["compressible and searchible"](https://arxiv.org/abs/2404.10234) is public!
 
