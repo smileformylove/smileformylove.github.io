@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
-
 ## Patents
 
 * 基于变分自编码器进行图像压缩和解压方法和装置, CN113497938A
