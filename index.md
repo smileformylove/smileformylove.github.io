@@ -38,6 +38,8 @@ I believe **compression is to represent the world**. My current research focuses
 
 * **CVPRW2022**: *1st Place* in the Image Compression Track
 
-* The **Champion** of 'Call for Code (IBM)' (2019)
+* The **Champion of Call for Code (IBM)**(2019)
+
+* **The National Scholarship**(2020)
 
 
