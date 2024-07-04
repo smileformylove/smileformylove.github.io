@@ -14,7 +14,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 - **April 2024**：Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
 
-- **April 2024**: My work ["compressible and searchible"](https://arxiv.org/abs/2404.10234) is public!
+- **April 2024**: My work ["Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression"](https://arxiv.org/abs/2404.10234) is public!
 
 - **March 2024**: Our work ["Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization"]([https://arxiv.org/abs/2404.04848](https://arxiv.org/abs/2403.13030)) is public!
 
