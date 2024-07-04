@@ -21,7 +21,6 @@ I believe **compression is to represent the world**. My current research focuses
 - **Feburary 2024**: Our work ["Task-Aware Encoder Control for Deep Video Compression"](https://arxiv.org/abs/2404.04848) is accepted by CVPR2024!
 
 ---
----
 
 ## Publications
 
@@ -33,7 +32,6 @@ I believe **compression is to represent the world**. My current research focuses
 
 * More Publications are [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de)!
 
----
 ---
 
 ## Awards
