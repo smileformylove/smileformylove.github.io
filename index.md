@@ -26,6 +26,8 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## Publications
 
+* Jixiang Luo, "Rethinking Learned Image Compression: Context is All You Need", Arxiv'2024 https://arxiv.org/abs/2407.11590
+
 * Jixiang Luo, "Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression", Arxiv'2024 https://arxiv.org/abs/2404.10234
 
 * Jixiang Luo, Yan Wang, Hongwei Qin, "Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization", Arxiv'2024, https://arxiv.org/abs/2403.13030
