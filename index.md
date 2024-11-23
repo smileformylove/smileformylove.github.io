@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Now I work at Xiaohongshu MediaLab for AICodec(end-to-end image and video compression), image or video processing after two years experience at Sensetime Research. Before these I was intern at Huawei Cloud and Alibaba Cloud during postgraduate studies. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publications [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de) with CVPR, ICML, DCC, ICIP, VCIP, EACL, and I also serve as a reviewer for CVPR, AAAI, ACL and EMNLP.
+Now I work at TeleAI for low-level visual signal representation and AICodec(end-to-end image and video compression) after two years experience at Sensetime Research and half year at Xiaohongshu MediaLab . Before these I was intern at Huawei Cloud and Alibaba Cloud during postgraduate studies. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publications [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de) with CVPR, ICML, DCC, ICIP, VCIP, EACL, and I also serve as a reviewer for CVPR, AAAI, ACL and EMNLP.
 
 I believe **compression is to represent the world**. My current research focuses on the representation of **Multi-Modal Signals Processing**, including image, video, text and audio to verify **everything is embedding** or **everything is token**. While my major job now is for image or video processing and accelerate the progress of the deployment for AICodec.
 
@@ -10,11 +10,13 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
-- **July 2024**: My work ["Rethinking Learned Image Compression: Context is All You Need"](https://arxiv.org/abs/2407.11590) is public!
+- **Nov 2024**: Attendence at CCF Young Computer Scientist & Engineers Forum at Heiei to discuss about the future of AI-based image and video compression.
 
-- **June 2024**：Report of [compressible and searchible](https://www.mittrchina.com/news/detail/13461) is public at MIT Technology Review!
+-  **July 2024**: My work ["Rethinking Learned Image Compression: Context is All You Need"](https://arxiv.org/abs/2407.11590) is public!
 
-- **April 2024**：Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
+- **June 2024**： Report of [compressible and searchible](https://www.mittrchina.com/news/detail/13461) is public at MIT Technology Review!
+
+- **April 2024**： Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
 
 - **April 2024**: My work ["Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression"](https://arxiv.org/abs/2404.10234) is public!
 
