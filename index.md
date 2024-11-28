@@ -10,7 +10,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
-- **Nov 2024**: Attendence at CCF Young Computer Scientist & Engineers Forum(YOCSEF) in Heiei to discuss about the future of AI-based image and video compression.
+- **Nov 2024**: Attendence at CCF Young Computer Scientist & Engineers Forum(YOCSEF) in Heiei to discuss about the future of [AI-based image and video compression](https://mp.weixin.qq.com/s/FLwFMvz_fQr41FXdcXyH7Q).
 
 -  **July 2024**: My work ["Rethinking Learned Image Compression: Context is All You Need"](https://arxiv.org/abs/2407.11590) is public!
 
