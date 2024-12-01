@@ -20,7 +20,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 - **April 2024**: My work ["Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression"](https://arxiv.org/abs/2404.10234) is public!
 
-- **March 2024**: Our work ["Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization"]([https://arxiv.org/abs/2404.04848](https://arxiv.org/abs/2403.13030)) is public!
+- **March 2024**: Our work ["Super-High-Fidelity Image Compression via Hierarchical-ROI and Adaptive Quantization"](https://arxiv.org/abs/2403.13030) is public!
 
 - **Feburary 2024**: Our work ["Task-Aware Encoder Control for Deep Video Compression"](https://arxiv.org/abs/2404.04848) is accepted by CVPR2024!
 
