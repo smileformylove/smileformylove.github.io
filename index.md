@@ -49,21 +49,3 @@ I believe **compression is to represent the world**. My current research focuses
 * **The Champion of Call for Code**(IBM2019)
 
 * **The National Scholarship**(2020)
-
-## Patents
-
-* 图像压缩模型的训练方法、图像压缩方法及装置, CN119110090A
-
-* 图像编码方法、图像重构方法及装置, CN119052478A
-
-* 图片解码方法及相关产品, CN119011861A
-
-* 噪声估计方法及装置、计算机设备、存储介质及程序产品, CN118945280A
-
-* 图像编码方法、装置、设备、存储介质及程序产品, CN117499655A
-
-* 视频压缩方法、装置及计算机可读存储介质, CN114845113A
-
-* 一种JPEG图像无损压缩和解压缩方法、系统与装置, CN113810693A
-
-* 基于变分自编码器进行图像压缩和解压的方法和装置, CN113497938A
