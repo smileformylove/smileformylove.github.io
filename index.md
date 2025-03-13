@@ -4,11 +4,13 @@ layout: page
 
 Now I work at Ubiquitous Artificial General Intelligence Group of TeleAI for multi-modal signal representation, understanding, and AICodec(end-to-end image and video compression) after two years experience at Sensetime Research and half year at Xiaohongshu MediaLab . Before these I was intern at Huawei Cloud and Alibaba Cloud during postgraduate studies. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publications [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de) with CVPR, ICML, DCC, ICIP, VCIP, EACL, and I also serve as a reviewer for CVPR, ICCV, AAAI, ACL and EMNLP.
 
-I believe **compression is to represent the world**. My current research focuses on the representation of **Multi-Modal Signals Processing**, including image, video, text and audio to verify **everything is embedding** or **everything is token**. While my major job now is for image or video processing and accelerate the progress of the deployment for AICodec.
+I believe **compression is to represent the world**. My current research focuses on the representation of **Multi-Modal Signals Processing**, including image, video, text and audio to verify **everything is embedding** or **everything is token**. While my major job now is to uncover the relationship between compression and generation within multi-modal signal. 
 
 ---
 
 ## News and Updates
+
+- **Nov 2024**: New Job! I will serve as a scientist at TeleAI. 
 
 - **Nov 2024**: Attendence at CCF Young Computer Scientist & Engineers Forum(YOCSEF) in Heiei to discuss about the future of [AI-based image and video compression](https://mp.weixin.qq.com/s/FLwFMvz_fQr41FXdcXyH7Q).
 
