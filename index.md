@@ -10,9 +10,11 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
-- **April 2025**: Our work["SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"](https://arxiv.org/pdf/2504.12704) is public!. 
+- **May 2025**: Our team 'NewbeeDVC' have won first place in the E2E track of [the ISCAS Grand Challenge 2025](https://iscasnnvcgc.github.io/)!
 
-- **Nov 2024**: New Job! I will serve as a scientist at TeleAI. 
+- **April 2025**: Our work["SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"](https://arxiv.org/pdf/2504.12704) is public!
+
+- **Nov 2024**: New Job! I will serve as a reseach scientist at TeleAI. 
 
 - **Nov 2024**: Attendence at CCF Young Computer Scientist & Engineers Forum(YOCSEF) in Heiei to discuss about the future of [AI-based image and video compression](https://mp.weixin.qq.com/s/FLwFMvz_fQr41FXdcXyH7Q).
 
