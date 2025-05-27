@@ -47,6 +47,7 @@ I believe **compression is to represent the world**. My current research focuses
 ---
 
 ## Awards
+* **1st Place in the Video Compression Track**(ISCAS2025)
 
 * **1st Place in the Image Compression Track**(CVPRW2022)
 
