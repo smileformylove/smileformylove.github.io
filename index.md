@@ -10,7 +10,7 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
-- **May 2025**: Our team 'NewbeeDVC' have won first place in the E2E track of [the ISCAS Grand Challenge 2025](https://iscasnnvcgc.github.io/)!
+- **May 2025**: Our team 'NewbeeDVC' have won **the first place** in the E2E track of [the ISCAS Grand Challenge 2025](https://iscasnnvcgc.github.io/)!
 
 - **April 2025**: Our work["SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"](https://arxiv.org/pdf/2504.12704) is public!
 
