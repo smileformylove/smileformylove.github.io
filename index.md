@@ -10,6 +10,8 @@ I believe **compression is to represent the world**. My current research focuses
 
 ## News and Updates
 
+- **July 2025**: Our work ["Infinite Video Understanding"](https://arxiv.org/pdf/2507.09068) is public!
+
 - **May 2025**: Our team 'NewbeeDVC' have won **the first place** in the E2E track of [the ISCAS Grand Challenge 2025](https://iscasnnvcgc.github.io/awards/)!
 
 - **April 2025**: Our work["SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"](https://smartfreeedit.github.io/) is public! And the corresponding report is public in [TeleAI](https://mp.weixin.qq.com/s/esmn7HUqJjA5rIK0bJ-MaQ?version=4.1.36.70499&platform=mac&from=industrynews)!
