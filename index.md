@@ -2,15 +2,13 @@
 layout: page
 ---
 
-Now I work at Ubiquitous Artificial General Intelligence Group of TeleAI for multi-modal signal representation, understanding, and AICodec(end-to-end image and video compression) after two years experience at Sensetime Research and half year at Xiaohongshu MediaLab . Before these I was intern at Huawei Cloud and Alibaba Cloud during postgraduate studies. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publications [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de) with DCC, CVPR, ICML, ACMMM, ICIP, VCIP, EACL, and I also serve as reviewer for CVPR, ICCV, ACMMM, AAAI, ARR ACL/EMNLP, WACV and PRCV.
+Now I work at Ubiquitous Artificial General Intelligence Group of TeleAI for multi-modal signal representation, understanding, and AICodec(end-to-end image and video compression) after two years experience at Sensetime Research and half year at Xiaohongshu MediaLab . Before these I was intern at Huawei Cloud and Alibaba Cloud during postgraduate studies. I received bachelor's and a master's degree at Shanghai Jiao Tong University. I major in data compression, video compression and signal processing advised by Prof. Hongkai Xiong and Prof. Wenrui Dai at [MIN lab](https://min.sjtu.edu.cn/). You can find my publications [here](https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de) with DCC, CVPR, ICML, ACMMM, ICIP, VCIP, EACL, and I also serve as reviewer for CVPR, ICCV, ICLR, ACMMM, AAAI, ARR ACL/EMNLP, WACV and PRCV.
 
 I believe **compression is to represent the world**. My current research focuses on the representation of **Multi-Modal Signals Processing**, including image, video, text and audio to verify **everything is embedding** or **everything is token**. While my major job now is to uncover the relationship between compression and generation within multi-modal signal. 
 
 ---
 
 ## News and Updates
-- **Sept 2025**: Our tutorial **Conversational Agents: From RAG to LTM** has been accept by SIGIR-AP2025!
-
 - **Sept 2025**: Our project [**TeleFood** and the corresponding AI glasses](https://tv.cctv.com/2025/09/10/VIDEQvv9vbxpZCBEeog7xKdt250910.shtml?spm=C53156045404.P8kLhvFcIptK.0.0) have been reported at CCTV!
 
 - **July 2025**: Our work ["Infinite Video Understanding"](https://arxiv.org/pdf/2507.09068) is public!
