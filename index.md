@@ -11,7 +11,7 @@ He believes **compression is to represent the world**. His current research focu
 ## News and Updates
 - **Nov 2025**: Our work ["EV-NVC: Efficient Variable bitrate Neural Video Compression"](https://arxiv.org/abs/2511.01590) is public!
 
-- **Oct 2025**: Our work **TeleEgo: Benchmarking Egocentric AI Assistants in the Wild** has been public！
+- **Oct 2025**: Our work ["TeleEgo: Benchmarking Egocentric AI Assistants in the Wild"](https://arxiv.org/abs/2510.23981) has been public！
 
 - **Sept 2025**: Our tutorial **Conversational Agents: From RAG to LTM** has been accepted by SIGIR-AP2025！
 
