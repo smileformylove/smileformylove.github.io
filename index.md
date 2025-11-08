@@ -9,6 +9,8 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## News and Updates
+- **Nov 2025**: Attendence at ["CSIG-MM"](https://mp.weixin.qq.com/s/F8ex_pJWwBxXeoDE2ZNJJg?version=4.1.36.70499&platform=mac&from=industrynews) and report the progress of AICodec!
+
 - **Nov 2025**: Our work "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification" has been accepted by AAAI2026!
 
 - **Nov 2025**: Our work ["EV-NVC: Efficient Variable bitrate Neural Video Compression"](https://arxiv.org/abs/2511.01590) is public!
