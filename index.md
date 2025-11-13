@@ -9,7 +9,7 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## News and Updates
-- **Nov 2025**: Attendence at ["CSIG-MM"](https://mp.weixin.qq.com/s/F8ex_pJWwBxXeoDE2ZNJJg?version=4.1.36.70499&platform=mac&from=industrynews) and report the progress of AICodec!
+- **Nov 2025**: Invited talk at ["CSIG-MM"](https://mp.weixin.qq.com/s/F8ex_pJWwBxXeoDE2ZNJJg?version=4.1.36.70499&platform=mac&from=industrynews) and report the progress of AICodec!
 
 - **Nov 2025**: Our work "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification" has been accepted by AAAI2026!
 
@@ -35,7 +35,7 @@ He believes **compression is to represent the world**. His current research focu
 
 - **June 2024**： Report of [compressible and searchible](https://www.mittrchina.com/news/detail/13461) is public at MIT Technology Review!
 
-- **April 2024**： Report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
+- **April 2024**： Invited talk and the corresponding report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
 
 - **April 2024**: My work ["Compressible and Searchable: AI-native Multi-Modal Retrieval System with Learned Image Compression"](https://arxiv.org/abs/2404.10234) is public!
 
