@@ -17,7 +17,7 @@ He believes **compression is to represent the world**. His current research focu
 
 - **Oct 2025**: Our work ["TeleEgo: Benchmarking Egocentric AI Assistants in the Wild"](https://arxiv.org/abs/2510.23981) has been public！
 
-- **Sept 2025**: Our tutorial [**Conversational Agents: From RAG to LTM**](https://dl.acm.org/doi/10.1145/3767695.3769671) has been accepted by SIGIR-AP2025！
+- **Sept 2025**: Our tutorial [**Conversational Agents: From RAG to LTM**](https://dl.acm.org/doi/10.1145/3767695.3769671) has been accepted by SIGIR-AP2025！And the corresponding [**TeleMem**](https://github.com/TeleAI-UAGI/telemem) is also public! 
 
 - **Sept 2025**: Our project [**TeleFood** and the corresponding AI glasses](https://tv.cctv.com/2025/09/10/VIDEQvv9vbxpZCBEeog7xKdt250910.shtml?spm=C53156045404.P8kLhvFcIptK.0.0) have been reported at CCTV!
 
