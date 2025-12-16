@@ -33,6 +33,8 @@ He believes **compression is to represent the world**. His current research focu
 
 -  **July 2024**: My work ["Rethinking Learned Image Compression: Context is All You Need"](https://arxiv.org/abs/2407.11590) is public!
 
+- **June 2024**： Invited talk for [Skywork](https://tiangong-china.com/) about **Visual Reconstruction and Generation**!
+
 - **June 2024**： Report of [compressible and searchible](https://www.mittrchina.com/news/detail/13461) is public at MIT Technology Review!
 
 - **April 2024**： Invited talk and the corresponding report of [Sora with Generative AI](https://www.sohu.com/a/768385893_116132) is public at Shanghai!
