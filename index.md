@@ -9,7 +9,7 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## News and Updates
-- **Dec 2025**: Our position paper [**Generative Video Compression**](https://mp.weixin.qq.com/s/BKFbsXsIc0dAvqWszVFTrQ) has been public!
+- **Dec 2025**: Our position paper [**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission**](https://www.arxiv.org/pdf/2512.24300) and the corresponding report [GVC](https://mp.weixin.qq.com/s/BKFbsXsIc0dAvqWszVFTrQ) has been public!
 
 - **Dec 2025**: Our positional paper ["Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management"](https://arxiv.org/pdf/2512.21567) is public!
 
