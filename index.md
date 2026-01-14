@@ -9,7 +9,7 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## News and Updates
-- **Jan 2026**: Our paper [Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation] has been accepted by WWW2026!
+- **Jan 2026**: Our paper Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation has been accepted by WWW2026!
 
 - **Dec 2025**: Our report [**TeleMem: Building Long-Term and Multimodal Memory for Agentic AI**](https://arxiv.org/abs/2601.06037) has been public!
 
