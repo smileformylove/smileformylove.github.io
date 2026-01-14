@@ -9,6 +9,8 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## News and Updates
+- **Jan 2026**: Our paper [Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation](xx) has been accepted by WWW2026!
+
 - **Dec 2025**: Our report [**TeleMem: Building Long-Term and Multimodal Memory for Agentic AI**](https://arxiv.org/abs/2601.06037) has been public!
 
 - **Dec 2025**: Our position paper [**Generative Video Compression: Towards 0.01% Compression Rate for Video Transmission**](https://www.arxiv.org/pdf/2512.24300) and the corresponding report [GVC](https://mp.weixin.qq.com/s/BKFbsXsIc0dAvqWszVFTrQ) has been public!
