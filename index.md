@@ -70,9 +70,11 @@ He believes **compression is to represent the world**. His current research focu
 ---
 
 ## Awards
-* **1st Place in the Video Compression Track**(ISCAS2025)
+* [**1st Place in the Video Compression Track**(ISCAS2025)](https://iscasnnvcgc.github.io/awards/)
 
-* **1st Place in the Image Compression Track**(CVPRW2022)
+* [**1st Place in the Image Compression Track**(CVPRW2022)](https://archive.compression.cc/2022/leaderboard/image_075/test/index.html)
+
+* [**MSU Cloud Video compression Top1**(MSU2021)](http://www.compression.ru/video/codec_comparison/2022/cloud_report.html)
 
 * **The Champion of Call for Code**(IBM2019)
 
