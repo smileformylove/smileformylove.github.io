@@ -4,9 +4,9 @@ layout: page
 
 <style>
   .profile-container {
-    max-width: 1400px;
+    max-width: 1800px;
     margin: 0 auto;
-    padding: 1.5rem 2rem;
+    padding: 1.5rem 3rem;
   }
 
   .hero-section {
@@ -69,18 +69,7 @@ layout: page
   }
 
   .main-content {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 2rem;
     margin-top: 2rem;
-  }
-
-  .left-column {
-    min-width: 0;
-  }
-
-  .right-column {
-    min-width: 0;
   }
 
   .section-title {
@@ -205,35 +194,33 @@ layout: page
     </p>
   </div>
 
-  <div class="main-content">
-    <div class="left-column">
-      <div class="bio-section">
-        <p>
-          I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
-        </p>
-        <p style="margin-top: 0.8rem;">
-          I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
-        </p>
-        <p style="margin-top: 0.8rem;">
-          My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
-        </p>
-      </div>
+  <div class="bio-section">
+    <p>
+      I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
+    </p>
+    <p style="margin-top: 0.8rem;">
+      I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
+    </p>
+    <p style="margin-top: 0.8rem;">
+      My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
+    </p>
+  </div>
 
-      <div class="research-philosophy">
-        <p style="margin-bottom: 0.8rem;">
-          I believe that <strong>compression is fundamentally about representing the world</strong>. My current research explores the representation of <strong>multi-modal signals</strong>, including image, video, text, and audio, investigating the principle that <strong>everything is embedding</strong> or <strong>everything is token</strong>.
-        </p>
-        <p>
-          My primary focus is uncovering the intrinsic relationship between compression and generation within multi-modal signals.
-        </p>
-      </div>
+  <div class="research-philosophy">
+    <p style="margin-bottom: 0.8rem;">
+      I believe that <strong>compression is fundamentally about representing the world</strong>. My current research explores the representation of <strong>multi-modal signals</strong>, including image, video, text, and audio, investigating the principle that <strong>everything is embedding</strong> or <strong>everything is token</strong>.
+    </p>
+    <p>
+      My primary focus is uncovering the intrinsic relationship between compression and generation within multi-modal signals.
+    </p>
+  </div>
 
-      <div class="compact-section">
-        <h2 class="section-title">📰 News</h2>
+  <div class="compact-section">
+    <h2 class="section-title">📰 News</h2>
 
-        <div class="news-item">
-          <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
-        </div>
+    <div class="news-item">
+      <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
+    </div>
 
   <div class="news-item">
     <strong>📄 Dec 2025</strong> – Our report <a href="https://arxiv.org/abs/2601.06037" target="_blank"><strong>TeleMem: Building Long-Term and Multimodal Memory for Agentic AI</strong></a> has been published!
@@ -318,32 +305,29 @@ layout: page
   <div class="news-item">
     <strong>✅ February 2024</strong> – Our work <a href="https://arxiv.org/abs/2404.04848" target="_blank">"Task-Aware Encoder Control for Deep Video Compression"</a> has been accepted by <span class="highlight-venue">CVPR2024</span>!
   </div>
-      </div>
+  </div>
 
-      <div class="right-column">
-        <div class="compact-section">
-          <h2 class="section-title">🏆 Awards</h2>
+  <div class="compact-section">
+    <h2 class="section-title">🏆 Awards</h2>
 
-          <div class="award-item">
-            <strong>🥇 1st Place</strong> – Video Compression Track, <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">ISCAS2025</a>
-          </div>
-
-          <div class="award-item">
-            <strong>🥇 1st Place</strong> – Image Compression Track, <a href="https://archive.compression.cc/2022/leaderboard/image_075/test/index.html" target="_blank">CVPRW2022</a>
-          </div>
-
-          <div class="award-item">
-            <strong>🏅 Top 1</strong> – MSU Cloud Video Compression, <a href="http://www.compression.ru/video/codec_comparison/2022/cloud_report.html" target="_blank">MSU2021</a>
-          </div>
-
-          <div class="award-item">
-            <strong>🏆 Champion</strong> – Call for Code, IBM2019
-          </div>
-
-          <div class="award-item">
-            <strong>🎖️ National Scholarship</strong> – 2020
-          </div>
-        </div>
-      </div>
+    <div class="award-item">
+      <strong>🥇 1st Place</strong> – Video Compression Track, <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">ISCAS2025</a>
     </div>
+
+    <div class="award-item">
+      <strong>🥇 1st Place</strong> – Image Compression Track, <a href="https://archive.compression.cc/2022/leaderboard/image_075/test/index.html" target="_blank">CVPRW2022</a>
+    </div>
+
+    <div class="award-item">
+      <strong>🏅 Top 1</strong> – MSU Cloud Video Compression, <a href="http://www.compression.ru/video/codec_comparison/2022/cloud_report.html" target="_blank">MSU2021</a>
+    </div>
+
+    <div class="award-item">
+      <strong>🏆 Champion</strong> – Call for Code, IBM2019
+    </div>
+
+    <div class="award-item">
+      <strong>🎖️ National Scholarship</strong> – 2020
+    </div>
+  </div>
 </div>
