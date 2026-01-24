@@ -3,6 +3,14 @@ layout: page
 ---
 
 <style>
+  /* Override theme width constraints */
+  #main article,
+  #index {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
   .profile-container {
     width: 100%;
     max-width: none;
