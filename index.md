@@ -73,23 +73,18 @@ layout: page
   }
 
   .bio-section {
-    background: white;
-    padding: 3rem;
-    border-radius: 15px;
     margin-bottom: 2rem;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
     line-height: 1.9;
     font-size: 1.05rem;
   }
 
   .research-philosophy {
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    padding: 3rem;
-    border-radius: 15px;
     margin-bottom: 2rem;
-    border-left: 6px solid #667eea;
     font-size: 1.05rem;
     line-height: 1.9;
+    padding: 1.5rem 0;
+    border-top: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
   }
 
   .research-philosophy strong {
