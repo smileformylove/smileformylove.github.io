@@ -142,6 +142,10 @@ layout: page
     font-weight: 600;
   }
 
+  .news-item a {
+    text-decoration: underline;
+  }
+
   .award-item {
     background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
     padding: 1rem;
