@@ -18,7 +18,6 @@ layout: page
     margin: 0 auto;
     padding: 1.5rem 2rem;
     box-sizing: border-box;
-    text-align: center;
   }
 
   .hero-section {
@@ -75,11 +74,11 @@ layout: page
     margin-bottom: 1.5rem;
     line-height: 1.7;
     font-size: 1rem;
-    text-align: center;
   }
 
   .bio-section p {
     margin-bottom: 0.8rem;
+    text-align: left;
   }
 
   .research-philosophy {
@@ -89,7 +88,10 @@ layout: page
     padding: 1rem 0;
     border-top: 1px solid #e0e0e0;
     border-bottom: 1px solid #e0e0e0;
-    text-align: center;
+  }
+
+  .research-philosophy p {
+    text-align: left;
   }
 
   .research-philosophy strong {
@@ -109,7 +111,6 @@ layout: page
     border-bottom: 2px solid #667eea;
     padding-bottom: 0.3rem;
     display: inline-block;
-    text-align: center;
   }
 
   .compact-section {
@@ -121,7 +122,7 @@ layout: page
   }
 
   .news-item {
-    background: white;
+    background: #f8f9ff;
     padding: 1rem;
     margin-bottom: 0.8rem;
     border-radius: 8px;
@@ -130,6 +131,7 @@ layout: page
     transition: all 0.3s ease;
     font-size: 0.95rem;
     line-height: 1.5;
+    text-align: left;
   }
 
   .news-item:hover {
@@ -154,6 +156,7 @@ layout: page
     font-weight: 500;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     font-size: 0.95rem;
+    text-align: left;
   }
 
   .award-item a {
