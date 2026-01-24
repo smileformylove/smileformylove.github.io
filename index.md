@@ -11,6 +11,11 @@ layout: page
     margin-right: 0 !important;
   }
 
+  /* Hide sidebar author bio */
+  .article-author-top {
+    display: none !important;
+  }
+
   .profile-container {
     width: 100%;
     max-width: none;
@@ -42,6 +47,16 @@ layout: page
     font-size: 0.95rem;
     color: #666;
     line-height: 1.5;
+  }
+
+  .hero-section .bio {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .hero-section a {
@@ -201,6 +216,9 @@ layout: page
     <p class="affiliation">
       Ubiquitous Artificial General Intelligence Group<br>
       Working with <a href="https://scholar.google.com/citations?hl=de&user=M0Ltb88AAAAJ" target="_blank">Dell Zhang</a>
+    </p>
+    <p class="bio">
+      I work on multi-modal signal representation, understanding, generation, and AICodec. Previously at Sensetime Research and Xiaohongshu MediaLab. PhD from Shanghai Jiao Tong University (MIN lab).
     </p>
   </div>
 
