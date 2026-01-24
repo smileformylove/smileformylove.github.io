@@ -82,34 +82,6 @@ layout: page
     font-size: 1.05rem;
   }
 
-  .bio-section h3 {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #667eea;
-    margin-bottom: 1rem;
-    margin-top: 2rem;
-    display: flex;
-    align-items: center;
-  }
-
-  .bio-section h3:first-child {
-    margin-top: 0;
-  }
-
-  .bio-section h3::before {
-    content: '';
-    display: inline-block;
-    width: 4px;
-    height: 1.5rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    margin-right: 0.8rem;
-    border-radius: 2px;
-  }
-
-  .bio-section p {
-    margin-bottom: 0.8rem;
-  }
-
   .research-philosophy {
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     padding: 3rem;
@@ -123,21 +95,6 @@ layout: page
   .research-philosophy strong {
     color: #667eea;
     font-size: 1.15rem;
-  }
-
-  .research-philosophy h3 {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: #667eea;
-    margin-bottom: 1.5rem;
-    display: flex;
-    align-items: center;
-  }
-
-  .research-philosophy h3::before {
-    content: '💡';
-    margin-right: 0.8rem;
-    font-size: 1.6rem;
   }
 
   .section-title {
@@ -278,41 +235,18 @@ layout: page
   </div>
 
   <div class="bio-section">
-    <h3>🚀 Current Position</h3>
     <p>
-      I am a Research Scientist at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, working closely with <a href="https://scholar.google.com/citations?hl=de&user=M0Ltb88AAAAJ" target="_blank">Dell Zhang</a>. My research focuses on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression).
+      I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
     </p>
-
-    <h3>💼 Professional Experience</h3>
-    <p>
-      <strong>Previous Roles:</strong>
-    </p>
-    <ul style="margin: 0.5rem 0 1rem 2rem; line-height: 1.8;">
-      <li><span class="highlight-company">Sensetime Research</span> – 2 years</li>
-      <li><span class="highlight-company">Xiaohongshu MediaLab</span> – 6 months</li>
-      <li><span class="highlight-company">Huawei Cloud</span> – Research Intern</li>
-      <li><span class="highlight-company">Alibaba Cloud</span> – Research Intern</li>
-    </ul>
-
-    <h3>🎓 Education</h3>
-    <p>
+    <p style="margin-top: 1rem;">
       I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
     </p>
-
-    <h3>📚 Academic Service</h3>
-    <p>
-      <strong>Publications:</strong> My work has appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>.
-    </p>
-    <p>
-      <strong>Reviewer Service:</strong> I serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>.
-    </p>
-    <p>
-      📖 Complete list of publications: <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank" style="color: #667eea; font-weight: 600;">Google Scholar</a>
+    <p style="margin-top: 1rem;">
+      My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
     </p>
   </div>
 
   <div class="research-philosophy">
-    <h3>Research Philosophy</h3>
     <p style="margin-bottom: 1rem;">
       I believe that <strong>compression is fundamentally about representing the world</strong>. My current research explores the representation of <strong>multi-modal signals</strong>, including image, video, text, and audio, investigating the principle that <strong>everything is embedding</strong> or <strong>everything is token</strong>.
     </p>
