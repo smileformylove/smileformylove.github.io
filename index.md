@@ -223,7 +223,7 @@ layout: page
       Working with <a href="https://scholar.google.com/citations?hl=de&user=M0Ltb88AAAAJ" target="_blank">Dell Zhang</a>
     </p>
     <p class="email">
-      <a href="mailto:luojixiang@teleai.ac.cn">luojixiang@teleai.ac.cn</a>
+      <a href="mailto:jixiangluo85@gmail.com">jixiangluo85@gmail.com</a>
     </p>
   </div>
 
