@@ -75,6 +75,7 @@ layout: page
     margin-bottom: 1.5rem;
     line-height: 1.7;
     font-size: 1rem;
+    text-align: center;
   }
 
   .bio-section p {
@@ -88,6 +89,7 @@ layout: page
     padding: 1rem 0;
     border-top: 1px solid #e0e0e0;
     border-bottom: 1px solid #e0e0e0;
+    text-align: center;
   }
 
   .research-philosophy strong {
@@ -107,6 +109,7 @@ layout: page
     border-bottom: 2px solid #667eea;
     padding-bottom: 0.3rem;
     display: inline-block;
+    text-align: center;
   }
 
   .compact-section {
@@ -215,19 +218,7 @@ layout: page
   }
 </style>
 
-<!-- <div class="profile-container">
-  <div class="hero-section">
-    <h1>Jixiang Luo</h1>
-    <p class="title">Research Scientist @ TeleAI</p>
-    <p class="affiliation">
-      Ubiquitous Artificial General Intelligence Group<br>
-      Working with <a href="https://scholar.google.com/citations?hl=de&user=M0Ltb88AAAAJ" target="_blank">Dell Zhang</a>
-    </p>
-    <p class="email">
-      <a href="mailto:jixiangluo85@gmail.com">jixiangluo85@gmail.com</a>
-    </p>
-  </div> -->
-
+<div class="profile-container">
   <div class="bio-section">
     <p>
       I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
