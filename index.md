@@ -4,7 +4,7 @@ layout: page
 
 <style>
   .profile-container {
-    max-width: 900px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 2rem;
   }
@@ -12,28 +12,52 @@ layout: page
   .hero-section {
     text-align: center;
     margin-bottom: 3rem;
-    padding: 2rem;
+    padding: 3rem 2rem;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 15px;
+    border-radius: 20px;
     color: white;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-section::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: pulse 15s ease-in-out infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
   }
 
   .hero-section h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin-bottom: 1rem;
     font-weight: 700;
+    position: relative;
+    z-index: 1;
   }
 
   .hero-section .title {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     opacity: 0.95;
     margin-bottom: 1.5rem;
+    position: relative;
+    z-index: 1;
   }
 
   .hero-section .affiliation {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     opacity: 0.9;
+    position: relative;
+    z-index: 1;
   }
 
   .hero-section a {
@@ -50,24 +74,27 @@ layout: page
 
   .bio-section {
     background: white;
-    padding: 2rem;
-    border-radius: 10px;
+    padding: 2.5rem;
+    border-radius: 15px;
     margin-bottom: 2rem;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
-    line-height: 1.8;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+    line-height: 1.9;
+    font-size: 1.05rem;
   }
 
   .research-philosophy {
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
-    padding: 2rem;
-    border-radius: 10px;
+    padding: 2.5rem;
+    border-radius: 15px;
     margin-bottom: 2rem;
-    border-left: 5px solid #667eea;
+    border-left: 6px solid #667eea;
+    font-size: 1.05rem;
+    line-height: 1.9;
   }
 
   .research-philosophy strong {
     color: #667eea;
-    font-size: 1.1rem;
+    font-size: 1.15rem;
   }
 
   .section-title {
@@ -82,12 +109,14 @@ layout: page
 
   .news-item {
     background: white;
-    padding: 1.2rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
-    border-left: 4px solid #667eea;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    padding: 1.5rem;
+    margin-bottom: 1.2rem;
+    border-radius: 12px;
+    border-left: 5px solid #667eea;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
     transition: all 0.3s ease;
+    font-size: 1.02rem;
+    line-height: 1.7;
   }
 
   .news-item:hover {
@@ -102,25 +131,27 @@ layout: page
 
   .publication-item {
     background: white;
-    padding: 1.5rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
+    padding: 2rem;
+    margin-bottom: 1.2rem;
+    border-radius: 12px;
     border: 1px solid #e0e0e0;
     transition: all 0.3s ease;
   }
 
   .publication-item:hover {
     border-color: #667eea;
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.2);
+    transform: translateY(-2px);
   }
 
   .award-item {
     background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
-    padding: 1.2rem;
-    margin-bottom: 1rem;
-    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.2rem;
+    border-radius: 12px;
     font-weight: 500;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
+    font-size: 1.05rem;
   }
 
   .award-item a {
@@ -134,11 +165,33 @@ layout: page
   }
 
   @media (max-width: 768px) {
+    .profile-container {
+      padding: 1rem;
+    }
+
+    .hero-section {
+      padding: 2rem 1rem;
+    }
+
     .hero-section h1 {
       font-size: 2rem;
     }
+
     .hero-section .title {
-      font-size: 1.1rem;
+      font-size: 1.2rem;
+    }
+
+    .hero-section .affiliation {
+      font-size: 1rem;
+    }
+
+    .bio-section,
+    .research-philosophy {
+      padding: 1.5rem;
+    }
+
+    .section-title {
+      font-size: 1.5rem;
     }
   }
 </style>
