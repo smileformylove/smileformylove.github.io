@@ -4,15 +4,15 @@ layout: page
 
 <style>
   .profile-container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem 3rem;
   }
 
   .hero-section {
     text-align: center;
     margin-bottom: 3rem;
-    padding: 3rem 2rem;
+    padding: 3.5rem 3rem;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     border-radius: 20px;
     color: white;
@@ -164,13 +164,49 @@ layout: page
     margin-top: 3rem;
   }
 
+  .highlight {
+    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    color: #667eea;
+    border: 2px solid #667eea40;
+  }
+
+  .highlight-venue {
+    background: linear-gradient(135deg, #ffd70020 0%, #ffb90020 100%);
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 700;
+    color: #b8860b;
+    border: 2px solid #ffd70060;
+  }
+
+  .highlight-achievement {
+    background: linear-gradient(135deg, #4caf5020 0%, #45a04920 100%);
+    padding: 0.2rem 0.6rem;
+    border-radius: 6px;
+    font-weight: 700;
+    color: #2e7d32;
+    border: 2px solid #4caf5060;
+  }
+
+  .highlight-company {
+    background: linear-gradient(135deg, #ff6b6b15 0%, #ee5a5215 100%);
+    padding: 0.2rem 0.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    color: #c0392b;
+    border: 2px solid #ff6b6b40;
+  }
+
   @media (max-width: 768px) {
     .profile-container {
-      padding: 1rem;
+      padding: 1rem 1.5rem;
     }
 
     .hero-section {
-      padding: 2rem 1rem;
+      padding: 2rem 1.5rem;
     }
 
     .hero-section h1 {
@@ -193,6 +229,13 @@ layout: page
     .section-title {
       font-size: 1.5rem;
     }
+
+    .highlight,
+    .highlight-venue,
+    .highlight-achievement,
+    .highlight-company {
+      display: inline;
+    }
   }
 </style>
 
@@ -208,13 +251,13 @@ layout: page
 
   <div class="bio-section">
     <p>
-      I currently work at the <strong>Ubiquitous Artificial General Intelligence Group of TeleAI</strong>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at Sensetime Research and six months at Xiaohongshu MediaLab. During my postgraduate studies, I interned at Huawei Cloud and Alibaba Cloud.
+      I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
     </p>
     <p style="margin-top: 1rem;">
-      I received both my bachelor's and master's degrees from <strong>Shanghai Jiao Tong University</strong>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
+      I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
     </p>
     <p style="margin-top: 1rem;">
-      My publications have appeared in <strong>DCC, CVPR, ICML, ACMMM, AAAI, SIGIR, ICIP, VCIP, WWW, and EACL</strong>. I also serve as a reviewer for CVPR, ICCV, ICLR, ACMMM, AAAI, ACL/EMNLP, WACV, and PRCV. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
+      My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
     </p>
   </div>
 
@@ -234,7 +277,7 @@ layout: page
   <h2 class="section-title">📰 News and Updates</h2>
 
   <div class="news-item">
-    <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <strong>WWW2026</strong>!
+    <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
   </div>
 
   <div class="news-item">
@@ -254,7 +297,7 @@ layout: page
   </div>
 
   <div class="news-item">
-    <strong>✅ Nov 2025</strong> – Our work "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification" has been accepted by <strong>AAAI2026</strong>!
+    <strong>✅ Nov 2025</strong> – Our work "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification" has been accepted by <span class="highlight-venue">AAAI2026</span>!
   </div>
 
   <div class="news-item">
@@ -266,7 +309,7 @@ layout: page
   </div>
 
   <div class="news-item">
-    <strong>📚 Sept 2025</strong> – Our tutorial <a href="https://dl.acm.org/doi/10.1145/3767695.3769671" target="_blank"><strong>Conversational Agents: From RAG to LTM</strong></a> has been accepted by <strong>SIGIR-AP2025</strong>! The corresponding <a href="https://github.com/TeleAI-UAGI/telemem" target="_blank"><strong>TeleMem</strong></a> is also available!
+    <strong>📚 Sept 2025</strong> – Our tutorial <a href="https://dl.acm.org/doi/10.1145/3767695.3769671" target="_blank"><strong>Conversational Agents: From RAG to LTM</strong></a> has been accepted by <span class="highlight-venue">SIGIR-AP2025</span>! The corresponding <a href="https://github.com/TeleAI-UAGI/telemem" target="_blank"><strong>TeleMem</strong></a> is also available!
   </div>
 
   <div class="news-item">
@@ -278,15 +321,15 @@ layout: page
   </div>
 
   <div class="news-item">
-    <strong>🏆 May 2025</strong> – Our team 'NewbeeDVC' won <strong>first place</strong> in the E2E track of <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">the ISCAS Grand Challenge 2025</a>!
+    <strong>🏆 May 2025</strong> – Our team 'NewbeeDVC' won <span class="highlight-achievement">first place</span> in the E2E track of <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">the ISCAS Grand Challenge 2025</a>!
   </div>
 
   <div class="news-item">
-    <strong>✅ April 2025</strong> – Our work <a href="https://smartfreeedit.github.io/" target="_blank"><strong>"SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"</strong></a> has been published and accepted by <strong>ACMMM2025</strong>! The corresponding report is available at <a href="https://mp.weixin.qq.com/s/esmn7HUqJjA5rIK0bJ-MaQ?version=4.1.36.70499&platform=mac&from=industrynews" target="_blank">TeleAI</a>!
+    <strong>✅ April 2025</strong> – Our work <a href="https://smartfreeedit.github.io/" target="_blank"><strong>"SmartFreeEdit: Mask-Free Spatial-Aware Image Editing with Complex Instruction Understanding"</strong></a> has been published and accepted by <span class="highlight-venue">ACMMM2025</span>! The corresponding report is available at <a href="https://mp.weixin.qq.com/s/esmn7HUqJjA5rIK0bJ-MaQ?version=4.1.36.70499&platform=mac&from=industrynews" target="_blank">TeleAI</a>!
   </div>
 
   <div class="news-item">
-    <strong>💼 Nov 2024</strong> – New position! I joined TeleAI as a Research Scientist.
+    <strong>💼 Nov 2024</strong> – New position! I joined <span class="highlight-company">TeleAI</span> as a Research Scientist.
   </div>
 
   <div class="news-item">
@@ -318,7 +361,7 @@ layout: page
   </div>
 
   <div class="news-item">
-    <strong>✅ February 2024</strong> – Our work <a href="https://arxiv.org/abs/2404.04848" target="_blank">"Task-Aware Encoder Control for Deep Video Compression"</a> has been accepted by <strong>CVPR2024</strong>!
+    <strong>✅ February 2024</strong> – Our work <a href="https://arxiv.org/abs/2404.04848" target="_blank">"Task-Aware Encoder Control for Deep Video Compression"</a> has been accepted by <span class="highlight-venue">CVPR2024</span>!
   </div>
 </div>
 
@@ -358,7 +401,7 @@ layout: page
     <p><strong>📄 Task-Aware Encoder Control for Deep Video Compression</strong></p>
     <p style="margin-top: 0.5rem; font-size: 0.95rem; color: #666;">
       Xingtong Ge, Jixiang Luo, Xinjie Zhang, Tongda Xu, Guo Lu, Dailan He, Jing Geng, Yan Wang, Jun Zhang, Hongwei Qin<br>
-      <em>CVPR'2024</em><br>
+      <span class="highlight-venue">CVPR'2024</span><br>
       <a href="https://arxiv.org/abs/2404.04848" target="_blank" style="color: #667eea;">https://arxiv.org/abs/2404.04848</a>
     </p>
   </div>
