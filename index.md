@@ -4,9 +4,10 @@ layout: page
 
 <style>
   .profile-container {
-    max-width: 1800px;
+    max-width: 95%;
+    width: 95%;
     margin: 0 auto;
-    padding: 1.5rem 3rem;
+    padding: 1.5rem 2rem;
   }
 
   .hero-section {
