@@ -49,14 +49,19 @@ layout: page
     line-height: 1.5;
   }
 
-  .hero-section .bio {
-    margin-top: 1rem;
+  .hero-section .email {
+    margin-top: 0.8rem;
     font-size: 1rem;
-    color: #555;
-    line-height: 1.6;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+  }
+
+  .hero-section .email a {
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .hero-section .email a:hover {
+    text-decoration: underline;
   }
 
   .hero-section a {
@@ -217,8 +222,8 @@ layout: page
       Ubiquitous Artificial General Intelligence Group<br>
       Working with <a href="https://scholar.google.com/citations?hl=de&user=M0Ltb88AAAAJ" target="_blank">Dell Zhang</a>
     </p>
-    <p class="bio">
-      I work on multi-modal signal representation, understanding, generation, and AICodec. Previously at Sensetime Research and Xiaohongshu MediaLab. PhD from Shanghai Jiao Tong University (MIN lab).
+    <p class="email">
+      <a href="mailto:luojixiang@teleai.ac.cn">luojixiang@teleai.ac.cn</a>
     </p>
   </div>
 
