@@ -7,8 +7,9 @@ layout: page
   #main article,
   #index {
     width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
   /* Hide sidebar author bio */
@@ -18,7 +19,7 @@ layout: page
 
   .profile-container {
     width: 100%;
-    max-width: none;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 1.5rem 2rem;
     box-sizing: border-box;
