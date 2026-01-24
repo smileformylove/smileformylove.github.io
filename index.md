@@ -6,32 +6,32 @@ layout: page
   .profile-container {
     max-width: 1400px;
     margin: 0 auto;
-    padding: 2rem 3rem;
+    padding: 1.5rem 2rem;
   }
 
   .hero-section {
     text-align: center;
-    margin-bottom: 2rem;
-    padding: 2rem 0;
+    margin-bottom: 1.5rem;
+    padding: 1rem 0;
   }
 
   .hero-section h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    font-size: 2.2rem;
+    margin-bottom: 0.3rem;
     font-weight: 700;
     color: #333;
   }
 
   .hero-section .title {
-    font-size: 1.2rem;
-    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
     color: #666;
   }
 
   .hero-section .affiliation {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #666;
-    line-height: 1.6;
+    line-height: 1.5;
   }
 
   .hero-section a {
@@ -45,50 +45,77 @@ layout: page
   }
 
   .bio-section {
-    margin-bottom: 2rem;
-    line-height: 1.9;
-    font-size: 1.05rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.7;
+    font-size: 1rem;
+  }
+
+  .bio-section p {
+    margin-bottom: 0.8rem;
   }
 
   .research-philosophy {
-    margin-bottom: 2rem;
-    font-size: 1.05rem;
-    line-height: 1.9;
-    padding: 1.5rem 0;
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.7;
+    padding: 1rem 0;
     border-top: 1px solid #e0e0e0;
     border-bottom: 1px solid #e0e0e0;
   }
 
   .research-philosophy strong {
     color: #667eea;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
+  }
+
+  .main-content {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .left-column {
+    min-width: 0;
+  }
+
+  .right-column {
+    min-width: 0;
   }
 
   .section-title {
-    font-size: 2rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
     color: #333;
-    border-bottom: 3px solid #667eea;
-    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #667eea;
+    padding-bottom: 0.3rem;
     display: inline-block;
+  }
+
+  .compact-section {
+    margin-bottom: 2rem;
+  }
+
+  .compact-section:last-child {
+    margin-bottom: 0;
   }
 
   .news-item {
     background: white;
-    padding: 1.5rem;
-    margin-bottom: 1.2rem;
-    border-radius: 12px;
-    border-left: 5px solid #667eea;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.06);
     transition: all 0.3s ease;
-    font-size: 1.02rem;
-    line-height: 1.7;
+    font-size: 0.95rem;
+    line-height: 1.5;
   }
 
   .news-item:hover {
-    transform: translateX(5px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transform: translateX(3px);
+    box-shadow: 0 3px 8px rgba(0,0,0,0.1);
   }
 
   .news-item strong {
@@ -98,12 +125,12 @@ layout: page
 
   .award-item {
     background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
-    padding: 1.5rem;
-    margin-bottom: 1.2rem;
-    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+    border-radius: 8px;
     font-weight: 500;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.12);
-    font-size: 1.05rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    font-size: 0.95rem;
   }
 
   .award-item a {
@@ -112,81 +139,58 @@ layout: page
     font-weight: 600;
   }
 
-  .content-section {
-    margin-top: 3rem;
-  }
-
   .highlight {
     background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
-    padding: 0.2rem 0.5rem;
-    border-radius: 6px;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
     font-weight: 600;
     color: #667eea;
-    border: 2px solid #667eea40;
+    border: 1px solid #667eea40;
   }
 
   .highlight-venue {
     background: linear-gradient(135deg, #ffd70020 0%, #ffb90020 100%);
-    padding: 0.2rem 0.6rem;
-    border-radius: 6px;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
     font-weight: 700;
     color: #b8860b;
-    border: 2px solid #ffd70060;
+    border: 1px solid #ffd70060;
   }
 
   .highlight-achievement {
     background: linear-gradient(135deg, #4caf5020 0%, #45a04920 100%);
-    padding: 0.2rem 0.6rem;
-    border-radius: 6px;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
     font-weight: 700;
     color: #2e7d32;
-    border: 2px solid #4caf5060;
+    border: 1px solid #4caf5060;
   }
 
   .highlight-company {
     background: linear-gradient(135deg, #ff6b6b15 0%, #ee5a5215 100%);
-    padding: 0.2rem 0.5rem;
-    border-radius: 6px;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
     font-weight: 600;
     color: #c0392b;
-    border: 2px solid #ff6b6b40;
+    border: 1px solid #ff6b6b40;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 1024px) {
+    .main-content {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
     .profile-container {
       padding: 1rem 1.5rem;
     }
 
-    .hero-section {
-      padding: 2rem 1.5rem;
-    }
-
     .hero-section h1 {
-      font-size: 2rem;
-    }
-
-    .hero-section .title {
-      font-size: 1.2rem;
-    }
-
-    .hero-section .affiliation {
-      font-size: 1rem;
-    }
-
-    .bio-section,
-    .research-philosophy {
-      padding: 1.5rem;
+      font-size: 1.8rem;
     }
 
     .section-title {
-      font-size: 1.5rem;
-    }
-
-    .highlight,
-    .highlight-venue,
-    .highlight-achievement,
-    .highlight-company {
-      display: inline;
+      font-size: 1.2rem;
     }
   }
 </style>
@@ -201,36 +205,35 @@ layout: page
     </p>
   </div>
 
-  <div class="bio-section">
-    <p>
-      I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
-    </p>
-    <p style="margin-top: 1rem;">
-      I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
-    </p>
-    <p style="margin-top: 1rem;">
-      My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
-    </p>
-  </div>
+  <div class="main-content">
+    <div class="left-column">
+      <div class="bio-section">
+        <p>
+          I currently work at the <span class="highlight-company">Ubiquitous Artificial General Intelligence Group of TeleAI</span>, focusing on multi-modal signal representation, understanding, generation, and AICodec (end-to-end image and video compression). Previously, I gained two years of experience at <span class="highlight-company">Sensetime Research</span> and six months at <span class="highlight-company">Xiaohongshu MediaLab</span>. During my postgraduate studies, I interned at <span class="highlight-company">Huawei Cloud</span> and <span class="highlight-company">Alibaba Cloud</span>.
+        </p>
+        <p style="margin-top: 0.8rem;">
+          I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
+        </p>
+        <p style="margin-top: 0.8rem;">
+          My publications have appeared in top-tier venues including <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span class="highlight-venue">DCC</span>, <span class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
+        </p>
+      </div>
 
-  <div class="research-philosophy">
-    <p style="margin-bottom: 1rem;">
-      I believe that <strong>compression is fundamentally about representing the world</strong>. My current research explores the representation of <strong>multi-modal signals</strong>, including image, video, text, and audio, investigating the principle that <strong>everything is embedding</strong> or <strong>everything is token</strong>.
-    </p>
-    <p>
-      My primary focus is uncovering the intrinsic relationship between compression and generation within multi-modal signals.
-    </p>
-  </div>
-</div> 
+      <div class="research-philosophy">
+        <p style="margin-bottom: 0.8rem;">
+          I believe that <strong>compression is fundamentally about representing the world</strong>. My current research explores the representation of <strong>multi-modal signals</strong>, including image, video, text, and audio, investigating the principle that <strong>everything is embedding</strong> or <strong>everything is token</strong>.
+        </p>
+        <p>
+          My primary focus is uncovering the intrinsic relationship between compression and generation within multi-modal signals.
+        </p>
+      </div>
 
----
+      <div class="compact-section">
+        <h2 class="section-title">📰 News</h2>
 
-<div class="content-section">
-  <h2 class="section-title">📰 News and Updates</h2>
-
-  <div class="news-item">
-    <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
-  </div>
+        <div class="news-item">
+          <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
+        </div>
 
   <div class="news-item">
     <strong>📄 Dec 2025</strong> – Our report <a href="https://arxiv.org/abs/2601.06037" target="_blank"><strong>TeleMem: Building Long-Term and Multimodal Memory for Agentic AI</strong></a> has been published!
@@ -315,30 +318,32 @@ layout: page
   <div class="news-item">
     <strong>✅ February 2024</strong> – Our work <a href="https://arxiv.org/abs/2404.04848" target="_blank">"Task-Aware Encoder Control for Deep Video Compression"</a> has been accepted by <span class="highlight-venue">CVPR2024</span>!
   </div>
-</div>
+      </div>
 
----
+      <div class="right-column">
+        <div class="compact-section">
+          <h2 class="section-title">🏆 Awards</h2>
 
-<div class="content-section">
-  <h2 class="section-title">🏆 Awards</h2>
+          <div class="award-item">
+            <strong>🥇 1st Place</strong> – Video Compression Track, <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">ISCAS2025</a>
+          </div>
 
-  <div class="award-item">
-    <strong>🥇 1st Place</strong> – Video Compression Track, <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">ISCAS2025</a>
-  </div>
+          <div class="award-item">
+            <strong>🥇 1st Place</strong> – Image Compression Track, <a href="https://archive.compression.cc/2022/leaderboard/image_075/test/index.html" target="_blank">CVPRW2022</a>
+          </div>
 
-  <div class="award-item">
-    <strong>🥇 1st Place</strong> – Image Compression Track, <a href="https://archive.compression.cc/2022/leaderboard/image_075/test/index.html" target="_blank">CVPRW2022</a>
-  </div>
+          <div class="award-item">
+            <strong>🏅 Top 1</strong> – MSU Cloud Video Compression, <a href="http://www.compression.ru/video/codec_comparison/2022/cloud_report.html" target="_blank">MSU2021</a>
+          </div>
 
-  <div class="award-item">
-    <strong>🏅 Top 1</strong> – MSU Cloud Video Compression, <a href="http://www.compression.ru/video/codec_comparison/2022/cloud_report.html" target="_blank">MSU2021</a>
-  </div>
+          <div class="award-item">
+            <strong>🏆 Champion</strong> – Call for Code, IBM2019
+          </div>
 
-  <div class="award-item">
-    <strong>🏆 Champion</strong> – Call for Code, IBM2019
-  </div>
-
-  <div class="award-item">
-    <strong>🎖️ National Scholarship</strong> – 2020
-  </div>
+          <div class="award-item">
+            <strong>🎖️ National Scholarship</strong> – 2020
+          </div>
+        </div>
+      </div>
+    </div>
 </div>
