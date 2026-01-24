@@ -11,65 +11,37 @@ layout: page
 
   .hero-section {
     text-align: center;
-    margin-bottom: 3rem;
-    padding: 3.5rem 3rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 20px;
-    color: white;
-    box-shadow: 0 15px 40px rgba(0,0,0,0.15);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .hero-section::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-    animation: pulse 15s ease-in-out infinite;
-  }
-
-  @keyframes pulse {
-    0%, 100% { transform: scale(1); }
-    50% { transform: scale(1.1); }
+    margin-bottom: 2rem;
+    padding: 2rem 0;
   }
 
   .hero-section h1 {
-    font-size: 3rem;
-    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
     font-weight: 700;
-    position: relative;
-    z-index: 1;
+    color: #333;
   }
 
   .hero-section .title {
-    font-size: 1.5rem;
-    opacity: 0.95;
-    margin-bottom: 1.5rem;
-    position: relative;
-    z-index: 1;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #666;
   }
 
   .hero-section .affiliation {
-    font-size: 1.2rem;
-    opacity: 0.9;
-    position: relative;
-    z-index: 1;
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.6;
   }
 
   .hero-section a {
-    color: #ffd700;
+    color: #667eea;
     text-decoration: none;
-    border-bottom: 2px solid #ffd700;
-    transition: all 0.3s ease;
+    font-weight: 600;
   }
 
   .hero-section a:hover {
-    color: #ffed4e;
-    border-bottom-color: #ffed4e;
+    text-decoration: underline;
   }
 
   .bio-section {
