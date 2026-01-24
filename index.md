@@ -12,17 +12,13 @@ layout: page
     margin-right: auto !important;
   }
 
-  /* Hide sidebar author bio */
-  .article-author-top {
-    display: none !important;
-  }
-
   .profile-container {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
     padding: 1.5rem 2rem;
     box-sizing: border-box;
+    text-align: center;
   }
 
   .hero-section {
