@@ -218,7 +218,7 @@ layout: page
   }
 </style>
 
-<div class="profile-container">
+<!-- <div class="profile-container">
   <div class="hero-section">
     <h1>Jixiang Luo</h1>
     <p class="title">Research Scientist @ TeleAI</p>
@@ -229,7 +229,7 @@ layout: page
     <p class="email">
       <a href="mailto:jixiangluo85@gmail.com">jixiangluo85@gmail.com</a>
     </p>
-  </div>
+  </div> -->
 
   <div class="bio-section">
     <p>
