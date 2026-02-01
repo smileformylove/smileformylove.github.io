@@ -245,6 +245,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>🚀 Feb 2026</strong> – Our product <a href="https://www.producthunt.com/products/memscreen?launch=memscreen" target="_blank"><strong>MemScreen</strong></a> has been launched on Product Hunt!
+    </div>
+
+    <div class="news-item">
       <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
     </div>
 
