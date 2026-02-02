@@ -231,7 +231,9 @@ layout: page
       My publications have appeared in top-tier venues including <span c
       class="highlight-venue">DCC</span>, <span
       class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span  class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span
-      class="highlight-venue">ECCV</span>, <span class="highlight-venue">ICLR</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
+      class="highlight-venue">ECCV</span>, <span class="highlight-venue">ICLR</span>, <span 
+      class="highlight-venue">ICML</span>, <span
+      class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
     </p>
   </div>
 
