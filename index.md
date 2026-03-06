@@ -251,7 +251,7 @@ layout: page
     </div>
 
     <div class="news-item">
-      <strong>🎉 Jan 2026</strong> – Our paper "Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation" has been accepted by <span class="highlight-venue">WWW2026</span>!
+      <strong>🎉 Jan 2026</strong> – Our paper <a href="https://arxiv.org/pdf/2505.15255v5" target="_blank"><strong>"Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation"</strong></a> has been accepted by <span class="highlight-venue">WWW2026</span>!
     </div>
 
   <div class="news-item">
@@ -271,7 +271,7 @@ layout: page
   </div>
 
   <div class="news-item">
-    <strong>✅ Nov 2025</strong> – Our work "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification" has been accepted by <span class="highlight-venue">AAAI2026</span>!
+    <strong>✅ Nov 2025</strong> – Our work <a href="https://arxiv.org/abs/2603.00695" target="_blank">"STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification"</a> has been accepted by <span class="highlight-venue">AAAI2026</span>!
   </div>
 
   <div class="news-item">
