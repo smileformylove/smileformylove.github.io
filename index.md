@@ -251,6 +251,10 @@ layout: page
     </div>
 
     <div class="news-item">
+      <strong>✅ Mar 2026</strong> – Our paper "Stop Training Your Teacher Model! Enhancing Teacher Optimization for Efficient Knowledge Distillation" has been accepted by <span class="highlight-venue">Frontiers of Computer Science</span>!
+    </div>
+
+    <div class="news-item">
       <strong>🎉 Jan 2026</strong> – Our paper <a href="https://arxiv.org/pdf/2505.15255v5" target="_blank"><strong>"Boosting Large Language Models for Mental Manipulation Detection via Data Augmentation and Distillation"</strong></a> has been accepted by <span class="highlight-venue">WWW2026</span>!
     </div>
 
