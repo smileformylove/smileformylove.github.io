@@ -247,6 +247,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>🚀 Apr 2026</strong> – Our work <a href="https://github.com/smileformylove/XScientist" target="_blank"><strong>XScientist</strong></a> has been open-sourced on GitHub!
+    </div>
+
+    <div class="news-item">
       <strong>✅ Mar 2026</strong> – Our paper "Stop Training Your Teacher Model! Enhancing Teacher Optimization for Efficient Knowledge Distillation" has been accepted by <span class="highlight-venue">Frontiers of Computer Science 2026</span>!
     </div>
 
