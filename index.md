@@ -247,6 +247,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>🎉 May 2026</strong> – Our paper <a href="https://arxiv.org/pdf/2605.01220v1" target="_blank"><strong>"Visual Implicit Autoregressive Modeling"</strong></a> has been accepted by <span class="highlight-venue">ICML2026</span>!
+    </div>
+
+    <div class="news-item">
       <strong>🚀 Apr 2026</strong> – Our work <a href="https://github.com/smileformylove/XScientist" target="_blank"><strong>XScientist</strong></a> has been open-sourced on GitHub!
     </div>
 
