@@ -247,7 +247,11 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
-      <strong>🎉 May 2026</strong> – Our paper <a href="https://arxiv.org/pdf/2605.01220v1" target="_blank"><strong>"Visual Implicit Autoregressive Modeling"</strong></a> [<a href="https://github.com/mobiushy/VIAR" target="_blank">Code</a>] has been accepted by <span class="highlight-venue">ICML2026</span>!
+      <strong>📄 May 2026</strong> – Our paper <a href="http://arxiv.org/pdf/2603.09527" target="_blank"><strong>"Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation"</strong></a> [<a href="https://github.com/Lyn-Lucy/Efficient-Draft-Adaptation" target="_blank">Code</a>] is now available on arXiv!
+    </div>
+
+    <div class="news-item">
+      <strong>🎉 May 2026</strong> – Our paper <a href="https://arxiv.org/pdf/2605.01220v1" target="_blank"><strong>"Visual Implicit Autoregressive Modeling"</strong></a> [<a href="https://github.com/mobiushy/VIAR" target="_blank">Code</a>] has been accepted by <span class="highlight-venue">ICML2026</span>! The corresponding report is available at <a href="https://mp.weixin.qq.com/s/h8Pu9dUcEwYSDBU1Qwem5Q" target="_blank">TeleAI</a>!
     </div>
 
     <div class="news-item">
