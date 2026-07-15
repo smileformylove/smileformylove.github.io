@@ -247,6 +247,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>📄 Jul 2026</strong> – Our paper <a href="https://arxiv.org/abs/2607.12301" target="_blank"><strong>"XScientist: A Git-Like Research Protocol for Long-Running Autonomous Scientific Discovery"</strong></a> is now available on arXiv!
+    </div>
+
+    <div class="news-item">
       <strong>🎉 Jul 2026</strong> – Our paper <strong>"Generative Visual Transmission: Rethinking Computation, Bandwidth, and Memory in Video Communication"</strong> has been accepted by <span class="highlight-venue">WAICA</span>!
     </div>
 
