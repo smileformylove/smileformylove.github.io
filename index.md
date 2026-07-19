@@ -363,7 +363,7 @@ layout: page
     <h2 class="section-title">🏆 Awards</h2>
 
     <div class="award-item">
-      <strong>🏆 Best Paper Award</strong> – <strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong>, WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026
+      <strong>🏆 Best Paper Award</strong> – <strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong>, WAICA 2026
     </div>
 
     <div class="award-item">
