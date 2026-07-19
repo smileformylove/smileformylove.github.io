@@ -363,6 +363,10 @@ layout: page
     <h2 class="section-title">🏆 Awards</h2>
 
     <div class="award-item">
+      <strong>🏆 Best Paper Award</strong> – <strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong>, WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026
+    </div>
+
+    <div class="award-item">
       <strong>🥇 1st Place</strong> – Video Compression Track, <a href="https://iscasnnvcgc.github.io/awards/" target="_blank">ISCAS2025</a>
     </div>
 
