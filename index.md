@@ -251,7 +251,7 @@ layout: page
     </div>
 
     <div class="news-item">
-      <strong>🎉 Jul 2026</strong> – Our paper <strong>"Generative Visual Transmission: Rethinking Computation, Bandwidth, and Memory in Video Communication"</strong> has been accepted by <span class="highlight-venue">WAICA</span>!
+      <strong>🏆 Jul 2026</strong> – Our paper <strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong> received the Best Paper Award at <span class="highlight-venue">WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026</span>!
     </div>
 
     <div class="news-item">
