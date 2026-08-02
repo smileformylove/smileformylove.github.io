@@ -251,7 +251,7 @@ layout: page
     </div>
 
     <div class="news-item">
-      <strong>🏆 Jul 2026</strong> – Our paper <strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong> received the Best Paper Award at <span class="highlight-venue">WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026</span>!
+      <strong>🏆 Jul 2026</strong> – Our paper <a href="https://arxiv.org/abs/2607.17482" target="_blank"><strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong></a> received the Best Paper Award at <span class="highlight-venue">WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026</span>!
     </div>
 
     <div class="news-item">
