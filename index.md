@@ -247,15 +247,11 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
-      <strong>🚀 Aug 2026</strong> – <a href="https://pypi.org/project/xscientist/0.1.0/" target="_blank"><strong>XScientist v0.1.0</strong></a> is now available on PyPI!
-    </div>
-
-    <div class="news-item">
       <strong>📄 Aug 2026</strong> – Our paper <strong>"Learning to Remember: Advances in Memory Mechanisms for Large Language Models"</strong> has been accepted by <span class="highlight-venue">Vicinagearth</span>!
     </div>
 
     <div class="news-item">
-      <strong>📄 Jul 2026</strong> – Our paper <a href="https://arxiv.org/abs/2607.12301" target="_blank"><strong>"XScientist: A Git-Like Research Protocol for Long-Running Autonomous Scientific Discovery"</strong></a> is now available on arXiv, and our work <a href="https://github.com/smileformylove/XScientist" target="_blank"><strong>XScientist</strong></a> has been open-sourced on GitHub!
+      <strong>🚀 Jul 2026</strong> – Our paper <a href="https://arxiv.org/abs/2607.12301" target="_blank"><strong>"XScientist: A Git-Like Research Protocol for Long-Running Autonomous Scientific Discovery"</strong></a> is now available on arXiv, and our work <a href="https://github.com/smileformylove/XScientist" target="_blank"><strong>XScientist</strong></a> has been open-sourced on GitHub! <a href="https://pypi.org/project/xscientist/0.1.0/" target="_blank"><strong>XScientist v0.1.0</strong></a> is now also available on PyPI!
     </div>
 
     <div class="news-item">
