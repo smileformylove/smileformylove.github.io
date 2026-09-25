@@ -230,7 +230,7 @@ layout: page
       I received both my bachelor's and master's degrees from <span class="highlight">Shanghai Jiao Tong University</span>, specializing in data compression, video compression, and signal processing under the supervision of Prof. Hongkai Xiong and Prof. Wenrui Dai at the <a href="https://min.sjtu.edu.cn/" target="_blank">MIN lab</a>.
       My publications have appeared in top-tier venues including <span c
       class="highlight-venue">DCC</span>, <span
-      class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span  class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span
+      class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICML</span>, <span class="highlight-venue">NeurIPS</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">SIGIR</span>, <span class="highlight-venue">WWW</span>, <span class="highlight-venue">ACMMM</span>, <span class="highlight-venue">EACL</span>, <span  class="highlight-venue">ICIP</span>, and <span class="highlight-venue">VCIP</span>. I also serve as a reviewer for <span class="highlight-venue">CVPR</span>, <span class="highlight-venue">ICCV</span>, <span
       class="highlight-venue">ECCV</span>, <span class="highlight-venue">ICLR</span>, <span
       class="highlight-venue">ICML</span>, <span
       class="highlight-venue">ACMMM</span>, <span class="highlight-venue">AAAI</span>, <span class="highlight-venue">ACL/EMNLP</span>, <span class="highlight-venue">BMVC</span>, <span class="highlight-venue">WACV</span>, and <span class="highlight-venue">PRCV</span>. You can find my complete list of publications <a href="https://scholar.google.com/citations?user=ua29MrwAAAAJ&hl=de" target="_blank">here</a>.
@@ -247,6 +247,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>📄 Sep 2026</strong> – Our paper <a href="https://arxiv.org/abs/2603.09527" target="_blank"><strong>"Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation"</strong></a> is available on arXiv and has been accepted by <a href="https://openreview.net/forum?id=OTKY3Ftw6B" target="_blank"><span class="highlight-venue">NeurIPS 2026</span></a>! The <a href="https://github.com/Lyn-Lucy/Efficient-Draft-Adaptation" target="_blank">code</a> is also available.
+    </div>
+
+    <div class="news-item">
       <strong>📄 Aug 2026</strong> – Our paper <strong>"Learning to Remember: Advances in Memory Mechanisms for Large Language Models"</strong> has been accepted by <span class="highlight-venue">Vicinagearth</span>!
     </div>
 
@@ -256,10 +260,6 @@ layout: page
 
     <div class="news-item">
       <strong>🏆 Jul 2026</strong> – Our paper <a href="https://arxiv.org/abs/2607.17482" target="_blank"><strong>"Generative Transmission: Rethinking Computation, Bandwidth, and Memory in Communication"</strong></a> received the Best Paper Award at <span class="highlight-venue">WORLD ARTIFICIAL INTELLIGENCE CONFERENCE ACADEMIC 2026</span>!
-    </div>
-
-    <div class="news-item">
-      <strong>📄 May 2026</strong> – Our paper <a href="http://arxiv.org/pdf/2603.09527" target="_blank"><strong>"Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation"</strong></a> [<a href="https://github.com/Lyn-Lucy/Efficient-Draft-Adaptation" target="_blank">Code</a>] is now available on arXiv!
     </div>
 
     <div class="news-item">
