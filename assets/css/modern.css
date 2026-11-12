@@ -140,13 +140,13 @@ body a:focus {
   border-bottom: 1px solid var(--line) !important;
 }
 
-.article-author-top::before {
-  content: "" !important;
+.article-author-top img.bio-photo {
   flex: 0 0 64px !important;
   width: 64px !important;
   height: 64px !important;
   border-radius: 50% !important;
-  background: url('/images/self.png') center 18% / cover no-repeat !important;
+  object-fit: cover !important;
+  object-position: center 18% !important;
   box-shadow: 0 0 0 4px var(--surface), 0 0 0 5px var(--line) !important;
 }
 
@@ -452,7 +452,7 @@ body a:focus {
 
   .page-hero-inner {
     width: calc(100% - 36px) !important;
-    padding: 38px 0 34px !important;
+    padding: 32px 0 28px !important;
   }
 
   .page-hero h1 {
@@ -471,7 +471,7 @@ body a:focus {
     padding: 14px 0 12px !important;
   }
 
-  .article-author-top::before {
+  .article-author-top img.bio-photo {
     flex-basis: 52px !important;
     width: 52px !important;
     height: 52px !important;
