@@ -31,6 +31,14 @@
 
 {% include navigation.html %}
 
+{% if page.url == '/' or page.url == '/index.html' %}
+<header class="page-hero" aria-labelledby="page-title">
+  <div class="page-hero-inner">
+    <h1 id="page-title">{{ page.title }}</h1>
+  </div>
+</header>
+{% endif %}
+
 {% if page.image.feature %}<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image" itemprop="primaryImageOfPage">
 </div><!-- /.image-wrap -->{% endif %}
