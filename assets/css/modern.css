@@ -51,6 +51,10 @@ body a:focus {
   text-transform: none !important;
 }
 
+.homepage .navigation-wrapper {
+  display: none !important;
+}
+
 .site-name,
 .top-navigation {
   width: auto !important;
@@ -113,7 +117,7 @@ body a:focus {
   width: min(1120px, calc(100% - 48px)) !important;
   box-sizing: border-box !important;
   margin: 0 auto !important;
-  padding: 54px 0 48px !important;
+  padding: 42px 0 38px !important;
 }
 
 .page-hero h1 {
@@ -170,6 +174,10 @@ body a:focus {
   color: var(--muted) !important;
   font-weight: 650 !important;
   border: 0 !important;
+}
+
+.article-author-top p a i {
+  display: none !important;
 }
 
 .article-author-top p a:hover {
@@ -452,7 +460,7 @@ body a:focus {
 
   .page-hero-inner {
     width: calc(100% - 36px) !important;
-    padding: 32px 0 28px !important;
+    padding: 30px 0 26px !important;
   }
 
   .page-hero h1 {
