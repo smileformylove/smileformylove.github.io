@@ -229,8 +229,14 @@ body a:focus {
 }
 
 .bio-section p {
-  max-width: 840px !important;
+  max-width: 920px !important;
   margin: 0 0 18px !important;
+  padding: 20px 0 20px 24px !important;
+  border-top: 1px solid var(--line) !important;
+  border-right: 0 !important;
+  border-bottom: 1px solid var(--line) !important;
+  border-left: 3px solid var(--accent) !important;
+  text-indent: 0 !important;
   text-align: left !important;
 }
 
@@ -242,17 +248,20 @@ body a:focus {
 
 .research-philosophy {
   margin: 0 0 42px !important;
-  padding: 20px 0 20px 24px !important;
-  border-top: 1px solid var(--line) !important;
-  border-right: 0 !important;
-  border-bottom: 1px solid var(--line) !important;
-  border-left: 3px solid var(--accent) !important;
+  padding: 0 !important;
+  border: 0 !important;
   font-size: 1.02rem !important;
   line-height: 1.8 !important;
 }
 
 .research-philosophy p {
   margin: 0 !important;
+  padding: 20px 0 20px 24px !important;
+  border-top: 1px solid var(--line) !important;
+  border-right: 0 !important;
+  border-bottom: 1px solid var(--line) !important;
+  border-left: 3px solid var(--accent) !important;
+  text-indent: 0 !important;
   text-align: left !important;
 }
 
@@ -519,8 +528,13 @@ body a:focus {
   }
 
   .research-philosophy {
-    padding: 16px 0 16px 16px !important;
+    padding: 0 !important;
     font-size: .95rem !important;
+  }
+
+  .bio-section p,
+  .research-philosophy p {
+    padding: 16px 0 16px 16px !important;
   }
 
   .news-item {
