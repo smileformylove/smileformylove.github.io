@@ -247,6 +247,10 @@ layout: page
     <h2 class="section-title">📰 News</h2>
 
     <div class="news-item">
+      <strong>📄 Nov 2026</strong> – Our paper <a href="https://arxiv.org/abs/2611.24010" target="_blank"><strong>"HHW-Ego: DSLR-Quality Enhancement for Multi-Source Wearable Ego Imaging"</strong></a> is now available on arXiv!
+    </div>
+
+    <div class="news-item">
       <strong>📄 Sep 2026</strong> – Our paper <a href="https://arxiv.org/abs/2603.09527" target="_blank"><strong>"Efficiently Aligning Draft Models via Parameter- and Data-Efficient Adaptation"</strong></a> is available on arXiv and has been accepted by <a href="https://openreview.net/forum?id=OTKY3Ftw6B" target="_blank"><span class="highlight-venue">NeurIPS 2026</span></a>! The <a href="https://github.com/Lyn-Lucy/Efficient-Draft-Adaptation" target="_blank">code</a> is also available.
     </div>
 
